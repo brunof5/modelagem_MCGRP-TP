@@ -10,7 +10,7 @@ As instâncias usadas pelo modelo são geradas diretamente pelo protótipo geoes
 
 Este é o 2º componente do conjunto de três repositórios que compõem a solução completa do TCC:
 
-1. [Protótipo geoespacial](https://github.com/brunof5/geracao_instancia_MCGRP-TP) (este): Gera instâncias MCGRP/MCGRP-TP a partir de dados reais.
+1. [Protótipo Geoespacial](https://github.com/brunof5/geracao_instancia_MCGRP-TP): Gera instâncias MCGRP/MCGRP-TP a partir de dados reais.
 
 2. [Modelagem Matemática](https://github.com/brunof5/modelagem_MCGRP-TP) (NEARP / NEARP-TP): Implementa os modelos exatos utilizados para análise comparativa.
 
